@@ -1,1 +1,1 @@
-Neste repositório, terá questões já resolvidas na linguagem de phyton de antigo projeto, quando eu ainda estava no curso de ciência da computação
+Neste repositório, terá questões já resolvidas na linguagem de phyton de antigo projeto, quando eu ainda estava no curso de ciência da computação, na Questão 1 foi feita uma resolução de como criar objetos os desenhos pelo importando o ''turtle'' dentro do phyton
